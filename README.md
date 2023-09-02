@@ -5,7 +5,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="art3303-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg%22%3E">
   <img align="center" alt="art3303-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg%22%3E">
-  
+    <img align="right" alt="Art3303-pic" height="150" style="border-radius:50px;" 
+</div>
 </div>
 
 
