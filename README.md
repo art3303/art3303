@@ -8,8 +8,8 @@
   <img align="right" alt="art3303-pic" height="150" style="border-radius:50px;" 
 </div>
 
-<div> 
 
-  !Snake animation
+
+
  
-</div>
+
